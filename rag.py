@@ -116,7 +116,7 @@ menu = [
     "Tiramisu | Other - Dessert | AUD $12-16 | 12 pm-10 pm",
     "Basque cheesecake | Other - Dessert | AUD $12-17 | 11 am-10 pm",
     "Sticky date pudding | Other - Dessert | AUD $12-17 | 12 pm-10 pm",
-    "Ice cream sundae | Other - Dessert | AUD $9-15 | 11 am-10 pm"
+    "Ice cream sundae | Other -  Dessert | AUD $9-15 | 11 am-10 pm "
 ]
 
 # db.add_texts(menu)
