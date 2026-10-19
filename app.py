@@ -87,7 +87,23 @@ def Breakfast(State:State):
     
 
 
-    prompt = f"this is the query{query} of the customer this is the RAG KnowledgeBAse{knowledge} ans the question to the user "
+    prompt = f"""this is the query{query} of the customer this is the RAG KnowledgeBAse{knowledge} ans the question to the user
+    
+    
+    
+    Rules:
+- Always se green tick emoji
+- Use other emojis relates to data but ocasionally not which all
+- Always se green tick emoji
+- Do not use Markdown.
+- Do not use asterisks (*) for bold or bullet points.
+- Do not use headings with Markdown formatting.
+- Respond in plain text with clean spacing
+
+    
+    
+    
+     """
     answer = []
 
     for chunk in model.stream(prompt):
