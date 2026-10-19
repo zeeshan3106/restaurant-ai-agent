@@ -92,9 +92,9 @@ def Breakfast(State:State):
     
     if user say Hi only ask for category and present one or two items
     Rules:
-- Always se green tick emoji for one time atleast not too much
+- Always use green tick emoji for one time atleast not too much
 - Use other emojis relates to data but ocasionally not which all
-- Always se green tick emoji for one time atleast not too much
+- Always use green tick emoji for one time atleast not too much
 - Do not use Markdown.
 - Do not use asterisks (*) for bold or bullet points.
 - Do not use headings with Markdown formatting.
