@@ -100,6 +100,8 @@ def Breakfast(State:State):
 - Do not use headings with Markdown formatting.
 - Respond in plain text with clean spacing
 
+always ask a question from the user in the ed relates to the stuff
+
     
     
     
