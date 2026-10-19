@@ -92,9 +92,9 @@ def Breakfast(State:State):
     
     
     Rules:
-- Always se green tick emoji
+- Always se green tick emoji for one time atleast not too much
 - Use other emojis relates to data but ocasionally not which all
-- Always se green tick emoji
+- Always se green tick emoji for one time atleast not too much
 - Do not use Markdown.
 - Do not use asterisks (*) for bold or bullet points.
 - Do not use headings with Markdown formatting.
