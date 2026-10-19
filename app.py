@@ -90,7 +90,7 @@ def Breakfast(State:State):
     prompt = f"""this is the query{query} of the customer this is the RAG KnowledgeBAse{knowledge} ans the question to the user
     
     
-    
+    if user say Hi only ask for category and present one or two items
     Rules:
 - Always se green tick emoji for one time atleast not too much
 - Use other emojis relates to data but ocasionally not which all
